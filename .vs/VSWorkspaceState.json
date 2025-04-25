@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\core",
+    "\\app\\store",
+    "\\app\\store\\geo",
+    "\\app\\store\\users",
+    "\\app\\store\\ws",
+    "\\client",
+    "\\client\\static",
+    "\\client\\static\\js"
+  ],
+  "SelectedNode": "\\main.py",
+  "PreviewInSolutionExplorer": false
+}
